@@ -6,5 +6,5 @@ BanglaPress is a CMS application, built with raw PHP. You can use this project f
 PHP<br>
 Apache<br>
 MySQL<br>
-<h2>How to use it</h2><br><br>
+<h2>How to use it</h2>
 Just run the application on localhost
